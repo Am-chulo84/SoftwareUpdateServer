@@ -8,3 +8,4 @@ Software Update Server 软件更新服务
 
 pyqt5
 python3
+chulo
